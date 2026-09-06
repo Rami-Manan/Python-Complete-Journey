@@ -1,6 +1,6 @@
 """
 Program 011: Area of a Triangle (Heron's Formula)
-Description : Calculates the area of a triangle from its three sides.
+Description : Calculates the area of a triangle from its three sides .
 Explanation : Heron's formula: s = (a+b+c)/2 (semi-perimeter),
               Area = sqrt(s*(s-a)*(s-b)*(s-c)).
 """
