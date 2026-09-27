@@ -1,6 +1,6 @@
 """
 Program 002: Add Two Numbers
-Description : Takes two numbers from the user and prints their sum.
+Description : Takes two numbers from the user and prints their sum
 Explanation : input() always returns a string, so we convert it to float
               using float() before doing arithmetic. Using float (instead of
               int) lets the program also accept decimal numbers.
